@@ -1,6 +1,6 @@
 # ng Angular Dockerize App
 
-Application developed with Stack of Node.JS, Angular & MongoDB.
+Application developed with Stack of Node.JS, Angular.
 
 ## Setup Docker
 
